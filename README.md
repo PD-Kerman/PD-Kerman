@@ -9,7 +9,7 @@
 HighSchool teen from **Canton City** aka **Guangzhou**
 
 - 🔭 I’m currently working on C & Cpp & linux miscellaneous
-- 🌱 I’m currently learning FPGAs, some algorithm /transformer/diffusion/ as an agent user
+- 🌱 I’m currently learning FPGAs, some algorithm /transformer/diffusion/ as an power user
 - 📫 How to reach me:  **[pd-kerman@outlook.com]**
 - 💻 Blogs WIP; Comming soon
 
