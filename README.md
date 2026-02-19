@@ -1,4 +1,5 @@
-<img width="726" height="208" alt="image" src="https://github.com/user-attachments/assets/92317bdf-0e5a-45bf-bbaa-c2fd17f19297" />
+<img width="680" height="172" alt="image" src="https://github.com/user-attachments/assets/a362e969-a09c-4403-8e4e-1342ab526d71" />
+
 
 ## (///◠‿◠///)
 ### hiya, I'm PD-Kerman
