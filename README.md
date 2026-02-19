@@ -4,8 +4,31 @@
 
 
 ## (///◠‿◠///)
-### hiya, I'm PD-Kerman
+### hiya, I'm PD-Kerman\
 
+HighSchool teen from Canton City aka Guangzhou
+
+- 🔭 I’m currently working on C & Cpp & linux miscellaneous
+- 🌱 I’m currently learning FPGAs, some algorithm /transformer/diffusion/ as an agent user
+- 📫 How to reach me:  **[pd-kerman@outlook.com]**
+- 💻 Blogs WIP; Comming soon
+
+---
+
+## Devices Currently Hosting:
+- Daily driver **->** U5 225H, 14inch <img align="left" alt="Xilinx" width="30px" style="padding-right:10px;" src="https://devicons.railway.com/i/w11.svg" />
+- Portable / Burner / Linux_Arch Host **->** T14s AMD Gen3 **[ES529/RMB-B0]** <img align="left" alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+
+
+---
+
+## Language&Tools / Skill Sets:
+
+<img align="left" alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+<img align="left" alt="Xilinx" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a32ef4fe-dba3-48ae-bd97-f6173b629c6b" />
+<img align="left" alt="Xilinx" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0f4eab82-5d8e-41fc-8b21-93ea790a9333" />
+<img align="left" alt="Xilinx" width="30px" style="padding-right:10px;" src="https://devicons.railway.com/i/c.svg" />
+<img align="left" alt="Xilinx" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/fd0fc960-3263-4f35-946f-edd5c1124658" />
 
 
 <!--
