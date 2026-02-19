@@ -6,7 +6,7 @@
 ## (///◠‿◠///)
 ### hiya, I'm PD-Kerman\
 
-HighSchool teen from Canton City aka Guangzhou
+HighSchool teen from **Canton City** aka **Guangzhou**
 
 - 🔭 I’m currently working on C & Cpp & linux miscellaneous
 - 🌱 I’m currently learning FPGAs, some algorithm /transformer/diffusion/ as an agent user
@@ -16,8 +16,12 @@ HighSchool teen from Canton City aka Guangzhou
 ---
 
 ## Devices Currently Hosting:
-- Daily driver **->** U5 225H, 14inch <img align="left" alt="Xilinx" width="30px" style="padding-right:10px;" src="https://devicons.railway.com/i/w11.svg" />
+- Daily driver **->** **U5 225H | 3070_via_TB4**, 14inch <img align="left" alt="Xilinx" width="30px" style="padding-right:10px;" src="https://devicons.railway.com/i/w11.svg" />
 - Portable / Burner / Linux_Arch Host **->** T14s AMD Gen3 **[ES529/RMB-B0]** <img align="left" alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+
+- Pub-V4 Carrier **->** **G4560**, **Optiplex 3050** <img align="left" alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/8886b93e-d656-4412-a41e-4099a0523f9e" />
+
+
 
 
 ---
